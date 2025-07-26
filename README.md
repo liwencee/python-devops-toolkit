@@ -1,2 +1,3 @@
-# python-devops-toolkit
-DevOps Automation Path with Python
+# Cloud Manager CLI
+
+Refer to README template provided.
